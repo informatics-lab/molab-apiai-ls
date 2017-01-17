@@ -1,8 +1,0 @@
-{
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "title":"molab-apiai-ls request",
-  "description": "A basic request to the Met Office Lab's APIAI Lambda Service",
-  "type": "object",
-  "properties": {},
-  "required": []
-}
