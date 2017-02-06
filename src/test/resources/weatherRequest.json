@@ -1,0 +1,35 @@
+{
+  "id": "1a85ce6c-9552-4c2e-a6cd-a0f6360674e5",
+  "timestamp": "2017-01-17T15:41:25.989Z",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "weather in Rome",
+    "action": "weather.forecast",
+    "actionIncomplete": false,
+    "parameters": {
+      "geo-city": "Rome"
+    },
+    "contexts": [],
+    "metadata": {
+      "intentId": "7df5be25-b17e-4697-a425-3e7fd63e4452",
+      "webhookUsed": "false",
+      "webhookForSlotFillingUsed": "false",
+      "intentName": "weather.forecast"
+    },
+    "fulfillment": {
+      "speech": "Loads of weather happening there!",
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Loads of weather happening there!"
+        }
+      ]
+    },
+    "score": 1
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success"
+  },
+  "sessionId": "5abf7fec-a7ae-41df-b72b-56fa44052884"
+}
